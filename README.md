@@ -2,7 +2,7 @@
   
 ## Hello 👋
 
-### I'm David, a Front-End developer who builds and designs websites using React and Next.js
+I'm David, a Front-End developer who builds and designs websites using React and Next.js
 
 <br />
 
@@ -18,10 +18,10 @@
 
 ### My favorite technologies:
 
-- React
-- Tailwind
-- Next.js
+React
+Tailwind
+Next.js
 
-### I plan to learn TypeScript and UI libraries next
+I plan to learn TypeScript and UI libraries next
 
 </div>
