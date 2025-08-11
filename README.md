@@ -17,7 +17,7 @@
         <img src="https://github.com/DavidMaksic/portfolio/blob/master/assets/portfolio.png" alt="Portfolio Image" width="400" height="200" />
         <a />
         <br />
-        <a href="https://davidmaksic.vercel.app/" >You can find my selected projects here</a>
+        <a href="https://davidmaksic.vercel.app/" >You can find my projects here</a>
       </td>
     </tr>
   </tbody>
