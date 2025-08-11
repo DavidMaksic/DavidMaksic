@@ -17,7 +17,6 @@
 <br />
 
 #### ⭐ My favorite technologies are React, Tailwind and Next.js
-
 #### 🎯 I plan to learn TypeScript and UI libraries next
 
 </div>
