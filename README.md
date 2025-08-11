@@ -18,6 +18,6 @@ I'm David, a Front-End developer who builds and designs websites using React and
 
 #### My favorite technologies are React, Tailwind and Next.js.
 
-### I plan to learn TypeScript and UI libraries next
+#### I plan to learn TypeScript and UI libraries next
 
 </div>
