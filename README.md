@@ -18,8 +18,8 @@ I'm David, a Front-End developer who builds and designs websites using React and
 
 ### My favorite technologies:
 
-<ul style="list-style: none;">
-  <li>React</li>
+<ul style="list-style: none">
+  <li style="list-style: none;">React</li>
   <li>Tailwind</li>
   <li>Next.js</li>
 </ul>
