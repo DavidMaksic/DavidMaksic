@@ -1,7 +1,7 @@
 <div align="center">
 
 ### I'm David, a Front-End developer from Serbia
-#### To see showcase of my projects check out my portfolio bellow 👇
+#### My portfolio 👇
 
 <br />
 
