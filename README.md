@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://davidmaksic.vercel.app/" >
-    <img src="https://github.com/DavidMaksic/portfolio/blob/master/assets/portfolio.png" alt="Portfolio Image" width="400" height="200" />
+    <img style="border-radius: 10px;" src="https://github.com/DavidMaksic/portfolio/blob/master/assets/portfolio.png" alt="Portfolio Image" width="400" height="200" />
   <a />
 </div>
 
