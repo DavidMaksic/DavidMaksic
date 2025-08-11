@@ -2,8 +2,8 @@
   
 # Hello 👋
 
-#### I'm David and I am a Front-End developer
-#### Check out my portfolio website bellow to see showcase of my projects 👇
+#### I'm David, a Front-End developer from Serbia 🇷🇸
+#### To see showcase of my projects check out my portfolio bellow 👇
 
 <br />
 
