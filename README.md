@@ -2,6 +2,7 @@
   
 # Hello 👋
 
+#### I'm David and I am a Front-End developer
 #### Check out my portfolio website bellow to see showcase of my projects 👇
 
 <br />
