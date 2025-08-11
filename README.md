@@ -10,7 +10,7 @@
   <a />
   <br />
   <a href="https://davidmaksic.vercel.app/" >You can find my projects here</a>
-</td>
+</div>
 
 <br />
 
