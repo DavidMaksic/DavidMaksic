@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hello 👋
+# Hello 👋
 
 #### Check out my portfolio website bellow to see showcase of my projects 👇
 
