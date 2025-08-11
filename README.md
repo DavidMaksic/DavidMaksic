@@ -2,7 +2,7 @@
   
 ## Hello 👋
 
-#### Check out my portfolio webiste bellow to see showcase of my projects 👇
+#### Check out my portfolio website bellow to see showcase of my projects 👇
 
 <br />
 
