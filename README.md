@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**DavidMaksic/DavidMaksic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm David, a Front-End developer who builds and designs websites using React and Next.js
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <thead>
+    <tr>
+      <th align="center">My Portfolio</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+       <a href="https://davidmaksic.vercel.app/" >
+        <img src="https://github.com/DanijelMaksic/portfolio/blob/master/assets/portfolio-dark.png" alt="Portfolio Image" width="400" height="200" />
+        <a />
+        <br />
+        <a href="https://davidmaksic.vercel.app/" >You can find my selected projects here</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+
+### My favorite technologies:
+
+- React
+- Next.js
+- Tailwind
+
+### I plan to learn TypeScript and UI libraries next
