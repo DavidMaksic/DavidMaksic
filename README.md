@@ -1,3 +1,5 @@
+<div align="center">
+  
 ## Hello 👋
 
 ### I'm David, a Front-End developer who builds and designs websites using React and Next.js
@@ -21,3 +23,5 @@
 - Next.js
 
 ### I plan to learn TypeScript and UI libraries next
+
+</div>
