@@ -15,6 +15,5 @@
 
 #### 📌 Check out the live demo of my main project, [Ethos Blog](https://ethos-blog.vercel.app/)
 #### ⭐ My favorite technologies are React, Tailwind and Next.js
-#### 🎯 I plan to learn TypeScript and UI libraries next
 
 </div>
