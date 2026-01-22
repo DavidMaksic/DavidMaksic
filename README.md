@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm David, a Front-End developer from Serbia
+### I'm David, a Front-End developer
 #### My portfolio 👇
 
 <br />
