@@ -13,7 +13,7 @@
 
 <br />
 
-#### 📌 Check out the live demo of my main project, [Ethos Blog](https://ethos-blog.vercel.app/)
+#### 📌 Check out the live demo of my main project, [Ethos Blog](https://ethos-blog.com/)
 #### ⭐ My favorite technologies are React, Tailwind and Next.js
 
 </div>
