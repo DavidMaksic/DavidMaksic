@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm David, a Front-End developer
+### I'm David, a Full-Stack developer
 #### My portfolio 👇
 
 <br />
@@ -14,6 +14,6 @@
 <br />
 
 #### 📌 Check out the live demo of my main project, [Ethos Blog](https://ethos-blog.com/)
-#### ⭐ My favorite technologies are React, Tailwind and Next.js
+#### ⭐ My favorite technologies are React, Vue, Tailwind and Next.js
 
 </div>
